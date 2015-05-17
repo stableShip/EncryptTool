@@ -1,0 +1,10 @@
+{
+  "name": "EncryptTool",
+  "version": "0.0.1",
+  "scripts": {},
+  "dependencies": {
+    "underscore": "1.7.0",
+    "utf8": "^2.0.0",
+    "debug": "*"
+  }
+}
