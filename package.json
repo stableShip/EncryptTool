@@ -3,8 +3,13 @@
   "version": "0.0.1",
   "scripts": {},
   "dependencies": {
+    "bluebird": "^3.4.3",
+    "co": "^4.6.0",
+    "co-read": "^0.1.1",
+    "debug": "*",
+    "lodash": "^4.15.0",
     "underscore": "1.7.0",
-    "utf8": "^2.0.0",
-    "debug": "*"
+    "ursa": "^0.9.4",
+    "utf8": "^2.0.0"
   }
 }
